@@ -3,7 +3,7 @@
 
 Name:             R-%{packname}
 Version:          1.32.0
-Release:          1
+Release:          2
 Summary:          R based tk widgets
 Group:            Sciences/Mathematics
 License:          Artistic-2.0
